@@ -20,7 +20,6 @@ let entero=1;
 let decimal=2.67;
 let texto="hola"; //dato tipo string, o cadena de caracteres//
 let textonum="1";
-
-a=entero+decimal;
+let booleano=true; //o false//
 
 console.log(a)
