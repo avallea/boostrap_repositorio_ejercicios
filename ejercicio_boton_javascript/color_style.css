@@ -1,0 +1,25 @@
+.bg-oceanBlue {
+    background-color: #000871 !important;
+}
+.bg-purple {
+   background-color: #8854f3 !important;
+}
+.bg-zafire {
+   background-color: #639bff !important;
+}
+.bg-emerald {
+   background-color: #63ffba !important;
+}
+.bg-orange {
+   background-color: #ff8c5c !important;
+}
+.bg-pink {
+   background-color: #ff79ae !important;
+}
+:root{
+    --bg-success:#fff982;
+    --bg-warning:#ffffff;
+}
+
+
+
